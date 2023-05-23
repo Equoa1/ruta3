@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ruta3/static/css/main.aafb70de.css",
+    "main.js": "/ruta3/static/js/main.2904c601.js",
+    "static/media/video.mp4": "/ruta3/static/media/video.9d8cd2b75371c53067b6.mp4",
+    "static/media/Tarrosycervezas.jpeg": "/ruta3/static/media/Tarrosycervezas.374342e5cbf5ec2a7de1.jpeg",
+    "static/media/Mariscos1.jpg": "/ruta3/static/media/Mariscos1.fe67568b4dd7323f3649.jpg",
+    "static/media/Grill.jpg": "/ruta3/static/media/Grill.a53b7e61bb9a107f2533.jpg",
+    "static/media/Shots.jpeg": "/ruta3/static/media/Shots.dda2edfc5f944ad99d15.jpeg",
+    "static/media/Shots1.jpeg": "/ruta3/static/media/Shots1.170c09b723b49547bf16.jpeg",
+    "static/media/Tequila.jpeg": "/ruta3/static/media/Tequila.482e982a3bcfd77577a8.jpeg",
+    "static/media/Exotics Drinks.jpeg": "/ruta3/static/media/Exotics Drinks.8cad202a6a8d7f5a92ad.jpeg",
+    "static/media/Cocteleria1.jpeg": "/ruta3/static/media/Cocteleria1.f232197eb5cd48f48361.jpeg",
+    "static/media/Mezcaleras.jpeg": "/ruta3/static/media/Mezcaleras.2afc162dc35635b52355.jpeg",
+    "static/media/Margaritas.jpeg": "/ruta3/static/media/Margaritas.e0f4a538d5e11632d6cd.jpeg",
+    "static/media/Mezcalespreparados.jpeg": "/ruta3/static/media/Mezcalespreparados.29292e18165bc7851c67.jpeg",
+    "static/media/Cocteleriapremium.jpeg": "/ruta3/static/media/Cocteleriapremium.3517bfb82cf41a35858a.jpeg",
+    "static/media/Bebidasnacionales.jpeg": "/ruta3/static/media/Bebidasnacionales.f41ac3ac264cabb4f48b.jpeg",
+    "static/media/Grill2.jpg": "/ruta3/static/media/Grill2.be1d3a65b86abfb8f1fe.jpg",
+    "static/media/Mariscos2.jpg": "/ruta3/static/media/Mariscos2.35985e4d42a9a8d27a00.jpg",
+    "static/media/Shots.png": "/ruta3/static/media/Shots.606fe6e1e1e705f9bda1.png",
+    "static/media/Food0.jpg": "/ruta3/static/media/Food0.9e0aa9268d71efcec3e8.jpg",
+    "static/media/Foo01.jpg": "/ruta3/static/media/Foo01.673b066845ebd4a6b157.jpg",
+    "static/media/Comidaruta3.jpg": "/ruta3/static/media/Comidaruta3.1dc94eab5bdb72a10ccf.jpg",
+    "static/media/Ruta 3.jpg": "/ruta3/static/media/Ruta 3.56c26c7ab7498f5e1b88.jpg",
+    "static/media/Drink 0.jpg": "/ruta3/static/media/Drink 0.872ee29fb4da65c37d81.jpg",
+    "static/media/home-banner-background.png": "/ruta3/static/media/home-banner-background.585600da7ff85661555e.png",
+    "index.html": "/ruta3/index.html",
+    "main.aafb70de.css.map": "/ruta3/static/css/main.aafb70de.css.map",
+    "main.2904c601.js.map": "/ruta3/static/js/main.2904c601.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aafb70de.css",
+    "static/js/main.2904c601.js"
+  ]
+}
