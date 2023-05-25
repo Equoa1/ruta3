@@ -1,1 +1,1 @@
-![img](ruta/a/la/imagen.jpg)
+![img](1684903738931.jfif)
